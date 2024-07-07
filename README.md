@@ -1,9 +1,16 @@
-# Database-Course-Final-Project
-This project is an SQLite-based database schema for an e-commerce application. It includes tables for managing users, admins, products, orders, carts, reviews, and more.
-
 # Online Shop Database Project
 
 This project involves the design and implementation of a database for an online shop. The aim is to create a robust and efficient database system to manage various aspects of an online shop, including user and manager accounts, products, categories, brands, orders, shopping cart, purchase history, reviews, shipping information, and discounts.
+
+## Supervisor
+- **Supervisor**: Dr. Hamid Gharagozlou
+- **Email**: [hamid.gharagozlou@gmail.com](mailto:hamid.gharagozlou@gmail.com)
+
+
+## University Information
+- **University**: Amirkabir University of Technology (Tehran Polytechnic)
+- **Term**: Spring 2024 (February 2024 - June 2024)
+
 
 ## Project Structure and Features
 
@@ -67,7 +74,9 @@ This project involves the design and implementation of a database for an online 
 ## Project Timeline
 ### Phase 1: ERD Design
 - **Entity-Relationship Diagram (ERD)**: Design an ERD for the online shop database, including all necessary tables and their relationships.
-- **Deadline**: 4th Khordad
+- **Deadline**: May 24, 2024
 
 ### Phase 2: Database Normalization
 - **Normalization**: The database will be normalized to ensure data integrity and reduce redundancy.
+
+
